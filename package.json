@@ -1,0 +1,34 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Twitter library for NodeJS",
+  "main": "dist/index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "typings": "./typings",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaynlink/twitter.js.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "shaynlink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaynlink/twitter.js/issues"
+  },
+  "homepage": "https://github.com/shaynlink/twitter.js#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
+    "@typescript-eslint/parser": "^5.23.0",
+    "eslint": "^8.15.0",
+    "eslint-config-google": "^0.14.0",
+    "typescript": "^4.6.4"
+  }
+}
